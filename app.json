@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "Meals-To-Go",
+    "slug": "Meals-To-Go",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/logo.png",
+    "splash": {
+      "image": "./assets/splash.jpg",
+      "resizeMode": "cover"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/logo.png"
+      }
+    },
+    "description": ""
+  }
+}
